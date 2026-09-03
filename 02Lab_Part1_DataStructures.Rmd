@@ -162,7 +162,7 @@ matrix4['R2','C1']
 ### Exercise 1b: Matrices
 Compute the mean of column "C2" in matrix4. (Should be 14.5)
 ```{r Matrix Exercise}
-
+mean(matrix4[ ,2])
 ```
 
 
